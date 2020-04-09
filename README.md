@@ -52,7 +52,7 @@
      10. Your _delicious_ Güllaç is ready. Seve Cold. **Enjoy Your Meal.**
      ![güllaç](https://i2.milimaj.com/i/milliyet/75/0x410/5c8dd3b145d2a09e00a022b5.jpg)
      
-     |Aile Bireyleri|Kütle Değeri(kg)|Boy uzunluğu(m)|Beden Kitle İndeksi(kg/$m^3$)|Sonuç|
+     |Aile Bireyleri|Kütle Değeri(kg)|Boy uzunluğu(m)|Beden Kitle İndeksi(kg/m^(2))|Sonuç|
      |--------------|----------------|----------------|---------------------------|----|
      |Annem|1|1|1|1|
      |Babam|1|1|1|1|
