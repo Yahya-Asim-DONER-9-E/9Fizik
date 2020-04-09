@@ -51,6 +51,13 @@
      9. Wait 2-3 hours and then you can decorate the dessert with whatever you want.
      10. Your _delicious_ Güllaç is ready. Seve Cold. **Enjoy Your Meal.**
      ![güllaç](https://i2.milimaj.com/i/milliyet/75/0x410/5c8dd3b145d2a09e00a022b5.jpg)
+     
+     |Aile Bireyleri|Kütle Değeri(kg)|Boy uzunluğu(m)|Beden Kitle İndeksi(kg/m^3)|Sonuç|
+     |--------------|----------------|----------------|---------------------------|----|
+     |Annem|1|1|1|1|
+     |Babam|1|1|1|1|
+     |Kardeşim|1|1|1|1|
+     |Ben|1|1|1|1|
 
 
 
