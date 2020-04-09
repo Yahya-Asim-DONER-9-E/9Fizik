@@ -49,7 +49,12 @@
      7. Take one glass from remaining mixture and add 2 tablespoon of rose water in it and pour on dessert.
      8. Keep the dessert in the fridge.
      9. Wait 2-3 hours and then you can decorate the dessert with whatever you want.
-     10. Your _delicious_ Güllaç is ready. Seve Cold. *Enjoy Your Meal.*
+     10. Your _delicious_ Güllaç is ready. Seve Cold. **Enjoy Your Meal.**
+     
+     
+     
+     
+     !(C:\Users\myazo\OneDrive\Masaüstü\Boş\güllaç.jpg)
 
 
 
