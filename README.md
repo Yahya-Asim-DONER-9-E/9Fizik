@@ -3,19 +3,19 @@
 
 # Güllaç Tarifi
 
+## Malzemeler
 * 10 yaprak güllaç
 * 1,5L Süt
 * 2 Su Bardağı Şeker
 * Çekilmiş Ceviz
 * 2 Yemek Kaşığı Gül Suyu
 ## Üzeri için:
-
 * File Fıstık
 * Ceviz
 * Nar Tanesi
 
     # Yapılışı
-         1. Süt, şeker tencereye alarak ısıtın, şekerler tamamen erisin.
+         1. Süt ve şekeri tencereye alarak ısıtın, şekerler tamamen erisin.
          2. Süt oda sıcaklığında ılınmaya bırakılır.
          3. Süt kaynar olursa tatlınız hamur olur o nedenle el yakmayacak şekilde olmalı sonra tatlıyı tepsiye döşüyoruz.
          4. Güllaç yaprağının parlak kısmı üste gelecek şekilde derince bir tepsiye koyuyoruz.
@@ -26,6 +26,31 @@
          9. Tatlıyı buz dolabında muhafaza edinizin.
          10. En az 2-3 saat dinlendirdikten sonra üzerini isteğe göre süsleyerek servis edebilirsiniz.
 
+# Güllaç Recipe
+
+## Ingredients
+* 10 Sheets Güllaç
+* 1,5 Liter Milk
+* 2 Glass of Sugar
+* Crushed Walnuts
+* 2 tablespoon of Rose Water
+## For the top side
+* Some Pistachio
+* Some Walnut
+* Few Pomegranate Seeds
+
+    # Yapılışı
+        1. Put the milk and sugar in to the pot and heat it, be sure to sugars are fully melted.
+        2. Put the milk-sugar mixture in to room temperature to cool down
+        3. İf the mixture is so hot your dessert will be paste so it has to be cool and then spread out it in the tray.
+        4. Put the Güllaç sheet in to deep tray and be sure to shiny side of sheets are on the top side.
+        5. Pour 1-2 scoop of mixture on it and be sure to wet all around.
+        6. Do the same thing for 5 Güllaç sheet after that spread some walnut on the sheet and then put the other sheets with same way.
+        7. Take one glass from remaining mixture and add 2 tablespoon of rose water in it and pour on dessert.
+        8. Keep the dessert in the fridge.
+        9. Wait 2-3 hours and then you can decorate the dessert with whatever you want.
+        10. Your _delicious_ Güllaç is ready. Seve Cold. *Enjoy Your Meal."
 
 
-sads
+
+
