@@ -52,6 +52,12 @@
      10. Your _delicious_ Güllaç is ready. Serve Cold. **Enjoy Your Meal.**
      ![güllaç](https://i2.milimaj.com/i/milliyet/75/0x410/5c8dd3b145d2a09e00a022b5.jpg)
      
+     |Size|Calori|
+     |----|------|
+     |Güllaç (1 tray)|2109|
+     
+     
+     # Vücut Kitle Endeksi
      |Aile Bireyleri|Kütle Değeri(kg)|Boy uzunluğu(m)|Beden Kitle İndeksi(kg/cm²)|Sonuç|
      |--------------|----------------|----------------|---------------------------|----| 
      |Annem|70|1.58|28.04|_fazla kilolu_|
